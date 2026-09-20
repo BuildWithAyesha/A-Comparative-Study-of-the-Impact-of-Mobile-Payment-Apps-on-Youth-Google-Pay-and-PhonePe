@@ -1,5 +1,5 @@
 # A-Comparative-Study-of-the-Impact-of-Mobile-Payment-Apps-on-Youth-Google-Pay-and-PhonePe
-### 🏆 Academic Recognition: Recognized by the evaluation panel as the Best Project of the Batch.
+> ### 🏆 Academic Recognition: Recognized by the evaluation panel as the Best Project of the Batch.
 
 A comparative study examining the impact, adoption, usage patterns, and user perceptions of mobile payment apps among youth, with a focus on Google Pay and PhonePe.
 This research project presents a comparative study of the impact of mobile payment applications on youth, with a specific focus on Google Pay and PhonePe.
